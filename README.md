@@ -6,7 +6,7 @@ Improvements/fixes welcome.
 
 ## Installation
 
-The library is available on Packagist ([solaris/php-dmarc](http://packagist.org/packages/solaris/php-dmarc))
+The library is available on Packagist ([tafoyaventures/php-dmarc](https://packagist.org/packages/tafoyaventures/php-dmarc))
 and can be installed using [Composer](http://getcomposer.org/). Alternatively you can grab the code directly from GitHub and include the `DmarcAggregateParser.php` script directly or via a PSR-0 autoloader.
 
 ## Usage
@@ -22,3 +22,9 @@ and can be installed using [Composer](http://getcomposer.org/). Alternatively yo
 - Knock your self out analysing the data.
 
 The `parse()` function returns `false` if it encounters any errors while parsing the data (`true` otherwise). To see what the errors were, use the `get_errors()` method, which will return an array of error messages.
+
+### Original Developer
+
+Samir Shah <samir@rayofsolaris.net> is the original developer, but the project has been abandoned.
+
+
