@@ -1,11 +1,12 @@
 {
-    "name": "solaris/php-dmarc",
+    "name": "tafoyaventures/php-dmarc",
     "description": "A simple DMARC report parser for PHP.",
-    "homepage": "http://www.github.com/solarissmoke/php-dmarc",
+    "homepage": "https://github.com/tafoyaventures/php-dmarc",
     "keywords": ["php", "dmarc"],
     "type": "library",
     "license": "MIT",
     "authors": [
+        { "name": "Brian Tafoya", "email": "brian@tafoyaventures.com" },
         { "name": "Samir Shah", "email": "samir@rayofsolaris.net" }
     ],
     "require": {
